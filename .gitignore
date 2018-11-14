@@ -6,6 +6,12 @@
 /.idea/modules.xml
 /.idea/vcs.xml
 /.idea/workspace.xml
+/.idea/gradle.xml
+/.idea/misc.xml
+/.idea/runConfigurations.xml
+/.idea/codeStyles/Project.xml
+/gradlew
+/gradlew.bat
 .DS_Store
 /build
 /captures
